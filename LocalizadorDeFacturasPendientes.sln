@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizadorDeFacturasPendientes", "LocalizadorDeFacturasPendientes.csproj", "{3866B173-43D0-4D06-B6EF-94E416288765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3866B173-43D0-4D06-B6EF-94E416288765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3866B173-43D0-4D06-B6EF-94E416288765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3866B173-43D0-4D06-B6EF-94E416288765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3866B173-43D0-4D06-B6EF-94E416288765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C5AF8F-D0C4-46F4-A2EF-0731B4FDF35C}
+	EndGlobalSection
+EndGlobal
